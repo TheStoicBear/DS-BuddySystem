@@ -40,7 +40,7 @@ Coming Soon!
 ## ZeroDream Towing
 1A17: https://github.com/1A17/PoliceBuddy
 ## Refined by
-Discord Solutions.
+Discord Solutions. : https://discordsolutions.net
 
 ## License
 [Buddy System] - Police AI Partner Sytem Bundle
