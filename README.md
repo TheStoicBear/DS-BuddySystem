@@ -1,5 +1,5 @@
-## FiveM World War 3
-![FMWW3](https://media.discordapp.net/attachments/1040002314280386620/1053866627235598386/2_20221217_014030_0001.png?width=719&height=404)
+## Discord Solutions Buddy System!
+![Buddy System](https://media.discordapp.net/attachments/982855421779922944/1036771144210071682/Copy_of_Winch_System_1.png?width=705&height=397)
 
 
 
@@ -10,39 +10,43 @@ Coming Soon!
 Coming Soon!
 
 
-## What is 5MWW3
-The basic premise of 5MWW3 is simple: you and up to 6 friends can drop into Los Santos in search of loot, completing missions and finding gear to earn rewards you can then become the top Squad! As well as AI soldiers you'll be competing against other players you run into.
+## Features
+- Police Buddy | /policebuddy to enable the script
+- State Buddy | /statebuddy to enable the script
+- Sheriff Buddy | /sheriffbuddy to enable the script
+- Swat Buddy | /swatbuddy to enable the script
+-----------------------------------------------------
+- Police Buddy | /policemenu to open Police Buddy Menu
+- State Buddy | /statemenu to open State Police Buddy Menu
+- Sheriff Buddy | /sheriffmenu to open Sheriff Buddy Menu
+- Swat Buddy | /swatmenu to open Swat Buddy Menu
 
-You can leave any time you want just now The danger is that if you die you lose everything you have on you, from the gear you brought in, to anything you pick up that game. 
 
 
 
-## Do I need the Launcher?
-No thankfully you do not NEED the launcher, yet we recommend that you use our launcher as it comes with updates, forms, tickets, etc! The biggest help is a direct connect feature for you and your friends!
+## Installation
+1. Clone or download this repo
+2. Copy the `[Buddies]` folder to your server resources folder
+3. Add `start [Buddies]` to your server.cfg
+4. Or add `ensure [Buddies]` to your server.cfg
+5. Restart the server
 
 ## Controls
-TAB : - 'Open Inventory',
-` : - 'Cycle Proximity',
-M : - 'Open Phone',
-B : - 'Toggle Seat Belt',
-L ALT : - 'Open Target Menu',
-F1 : - 'Radial Menu',
-I : - 'Open Hud Menu',
-L ALT : - 'Talk Over Radio',
-HOME : - 'Open Scoreboard',
-L : - 'Vehicle Locks',
-G : 'Toggle Engine',
-B : - 'Pointer Emote',
-Z : - 'Keybind Slots',
-X : - 'Hands Up Emote',
-NUM : - 'Use Item Slots',
-Y : - 'Cruise Control',
+-Can be edited in Config of each Resource.
 
 
 ## Credit
-Discord Solutions : https://discordsolutions.net
-Chessur : Lead Development
-Siah#6252 : Ideaist/Contriubtor
-You all for helping us make this!
+1A17: https://github.com/1A17
+## Refined by
+Discord Solutions. : https://discordsolutions.net
 
-Copyright ©2022 All rights reserved | FiveM World War 3 a Branch of DiscordSolutions
+## License
+[Buddy System] - Police AI Partner Sytem Bundle
+
+Copyright (C) 2022 Discord Solutions
+
+This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
+
+This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.
+
+You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/.
