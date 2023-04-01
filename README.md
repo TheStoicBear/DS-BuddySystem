@@ -14,12 +14,17 @@ Coming Soon!
 - Police Buddy | /policebuddy to enable the script
 - State Buddy | /statebuddy to enable the script
 - Sheriff Buddy | /sheriffbuddy to enable the script
-- Swat Buddy | /swatbuddy to enable the script
+- FBI Buddy | /fbibuddy to enable the script
+- USCG Buddy | /uscgbuddy to enable the script
+- Park Ranger Buddy | /parkbuddy to enable the script
 -----------------------------------------------------
 - Police Buddy | /policemenu to open Police Buddy Menu
 - State Buddy | /statemenu to open State Police Buddy Menu
 - Sheriff Buddy | /sheriffmenu to open Sheriff Buddy Menu
 - Swat Buddy | /swatmenu to open Swat Buddy Menu
+- FBI Buddy | /fbimenu to enable the script
+- USCG Buddy | /uscgmenu to enable the script
+- Park Ranger Buddy | /parkmenu to enable the script
 
 
 
