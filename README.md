@@ -1,5 +1,5 @@
-## Discord Solutions Buddy System!
-![Buddy System](https://media.discordapp.net/attachments/982855421779922944/1036771144210071682/Copy_of_Winch_System_1.png?width=705&height=397)
+## Bears Buddy System!
+![Buddy System](https://media.discordapp.net/attachments/982855421779922944/1113874487474130964/Sound_Edits_6.png)
 
 
 
@@ -43,12 +43,12 @@ Coming Soon!
 ## Credit
 1A17: https://github.com/1A17
 ## Refined by
-Discord Solutions. : https://discordsolutions.net
+TheStoicBear : https://discordsolutions.net
 
 ## License
 [Buddy System] - Police AI Partner Sytem Bundle
 
-Copyright (C) 2022 Discord Solutions
+Copyright (C) 2023 TheStoicBear
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
